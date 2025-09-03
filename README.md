@@ -31,3 +31,5 @@ This project requires a **Groq API key**.
    **Linux/macOS (bash/zsh):**
    ```bash
    export GROQ_API_KEY="your_api_key_here"
+   setx GROQ_API_KEY "your_api_key_here"
+
