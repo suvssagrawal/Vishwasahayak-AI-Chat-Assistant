@@ -1,2 +1,23 @@
-# Vishwasahayak-AI-Chat-Assistant
-Vishwasahayak – A futuristic AI desktop assistant built with Tkinter &amp; ttkbootstrap, powered by Groq API.   Supports PDF, Word, and Excel file uploads as context, and allows exporting responses to Word/Excel files.   Modern UI with splash screen, chat bubbles, and typewriter effect. 
+#  Vishwasahayak – AI Chat Assistant
+
+Vishwasahayak is a **futuristic AI desktop assistant** built with **Tkinter (using ttkbootstrap for modern UI)** and powered by the **Groq API**.  
+It supports **chatting with AI**, **attaching PDF/Word/Excel files as context**, and even **exporting responses to Word or Excel files**.
+
+---
+
+## Features
+
+- Powered by Groq API for lightning-fast AI responses.  
+- File Upload Support: Attach PDF, Word (`.docx`), or Excel (`.xlsx`, `.xls`) files to provide context for AI answers.  
+- Smart Context Handling**: Extracts and summarizes content, while automatically truncating long files.  
+- Export Responses: Save AI responses as Word (`.docx`) or Excel (`.xlsx`) files directly.  
+- Modern UI with splash screen, file context badges, styled chat bubbles, and typewriter effect.  
+
+---
+
+##  Installation
+
+1. Clone this repository or download the script:
+   ```bash
+   git clone https://github.com/suvssagrawal/vishwasahayak.git
+   cd vishwasahayak
