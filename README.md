@@ -21,3 +21,13 @@ It supports **chatting with AI**, **attaching PDF/Word/Excel files as context**,
    ```bash
    git clone https://github.com/suvssagrawal/vishwasahayak.git
    cd vishwasahayak
+  ## 🔑 API Key Setup
+
+This project requires a **Groq API key**.
+
+1. Get your free API key from [Groq](https://groq.com/).
+2. Set it as an environment variable on your system:
+
+   **Linux/macOS (bash/zsh):**
+   ```bash
+   export GROQ_API_KEY="your_api_key_here"
